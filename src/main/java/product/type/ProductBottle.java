@@ -5,6 +5,7 @@ import product.Unit;
 
 public class ProductBottle extends Product {
     private String alcohol;
+
     public ProductBottle(String name, int count, double price, String maker, String alcohol) {
         super(name, Unit.BOTTLE, count, price, maker);
         this.alcohol = alcohol;

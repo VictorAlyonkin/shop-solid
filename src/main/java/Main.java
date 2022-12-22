@@ -45,7 +45,7 @@ public class Main {
         System.out.println("2. Вывод товаров по слову");
         System.out.println("3. Вывод товаров по поставщику");
         System.out.println("4. Добавить новый товар");
-        System.out.println("5. Купить товар");
+        System.out.println("5. Продать товар");
         System.out.println("0. Выход");
     }
 
